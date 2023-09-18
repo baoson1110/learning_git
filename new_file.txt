@@ -1,3 +1,4 @@
 thay doi mot chut
 thay doi mot chut nua su dung web interface
-lai thay thoi mot chut nua cho Advanced 1 Excercise 4 in main
+thay doi mot chut nua trong bai tap Advanced 1 Exercise 1
+
